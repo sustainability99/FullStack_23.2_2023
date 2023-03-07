@@ -8,6 +8,8 @@ public class Main {
           myWine.year = 1929;
 
           System.out.println(myWine);
+          System.out.println(myWine.onStock(10));
+          System.out.println(myWine.getYear());
 
         Wine exclusivWine = new Wine();
           myWine.name = "Egon Muller Scharzhofberger Riesling";
@@ -15,6 +17,8 @@ public class Main {
           myWine.year = 2011;
 
           System.out.println(myWine);
+          System.out.println(myWine.onStock(18));
+          System.out.println(myWine.getYear());
 
         Wine whiteWine = new Wine();
           myWine.name = "Leroy Domaine d'Auvenay Chevalier-Montrachet";
@@ -22,6 +26,8 @@ public class Main {
           myWine.year = 2005;
 
           System.out.println(myWine);
-
+          System.out.println(myWine.onStock(8));
+          System.out.println(myWine.getYear());
     }
+
 }

@@ -12,4 +12,12 @@ public class Wine {
                 ",  year = " + year +
                 '.';
     }
+
+    public String onStock(int n){
+        return  ("Auf lager sind vorhanden : " + n + " Flaschen ");
+    }
+
+    public int getYear() {
+        return year;
+    }
 }
