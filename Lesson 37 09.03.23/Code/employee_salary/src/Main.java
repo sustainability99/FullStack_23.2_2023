@@ -27,11 +27,11 @@ public class Main {
         System.out.println();
         s2.mailPaySlip(); // Informiert über e-Mail
 
+        Address emp1 = new Address("Alexander Tonev","alexander.t@online.de",104, "Keiserstrasse 2, 85697 Donau");
+        Address emp2 = new Address("Silvia Salomon","silvia.s@online.de",105, "Wolkenstrasse 12, 97458 Hanau");
 
-
-
-
-
+        System.out.println(emp1.getAdresse());
+        System.out.println(emp2.getAdresse());
 
     }
 }
