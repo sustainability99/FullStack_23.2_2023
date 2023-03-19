@@ -1,4 +1,4 @@
-public class Car {
+public abstract class Car {
     int age; // возраст
     String usage; // применение
     int speed;
@@ -12,7 +12,7 @@ public class Car {
 
     public void go() {
         System.out.println("Едем по дороге");
-        System.out.println(speed);
+        this.speed = speed;
     }
 
     public void stop() {
@@ -27,7 +27,7 @@ public class Car {
     }
     public void speed_down() {
         System.out.println("Уменьшаем скорость");
-        this.speed = (speed - 10);
+        speed = speed - 10;
         System.out.println("Скорость упала: " + speed);
     }
 

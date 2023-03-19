@@ -1,7 +1,7 @@
 public class Circle extends Shape{
     double radius;
 
-    // конструктор класса
+    // Constructor für die Klasse Shape
     public Circle(String name, double radius) {
         super(name);
         this.radius = radius;

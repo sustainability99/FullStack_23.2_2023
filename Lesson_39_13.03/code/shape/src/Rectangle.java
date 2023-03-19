@@ -1,6 +1,6 @@
 public class Rectangle extends Shape{
-    double length; // длина
-    double width; // ширина
+    double length; // длина / Länge
+    double width; // ширина / Breite
 
     public Rectangle(String name, double length, double width) {
         super(name);

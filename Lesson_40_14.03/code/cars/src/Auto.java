@@ -2,7 +2,7 @@ public class Auto extends Car {
     String brand;
     int capacity;
 
-    // Constructor dieser Klasse
+    // конструктор класса
     public Auto(int age, String usage, int speed, String brand, int capacity) {
         super(age, usage, speed);
         this.brand = brand;
@@ -12,7 +12,7 @@ public class Auto extends Car {
     @Override
     public void go() {
         System.out.println("Едем по дороге всей семьей");
-        System.out.println(speed);
+        this.speed = speed;
     }
 
     @Override
@@ -25,10 +25,5 @@ public class Auto extends Car {
     @Override
     public void speed_up() {
         super.speed_up();
-    }
-
-    @Override
-    public void speed_down() {
-        super.speed_down();
     }
 }

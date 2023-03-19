@@ -2,7 +2,7 @@ public class Bus extends Car{
     String brand;
     int seats;
 
-    // Constructor dieser Klasse
+    // Конструктор класса
 
 
     public Bus(int age, String usage, int speed, String brand, int seats) {
@@ -11,22 +11,22 @@ public class Bus extends Car{
         this.seats = seats;
     }
 
-    // Getter
+    // геттер
     public String getBrand() {
         return brand;
     }
 
-    // Setter
+    // сеттер
     public void setBrand(String brand) {
         this.brand = brand;
     }
 
-    // Getter
+    // геттер
     public int getSeats() {
         return seats;
     }
 
-    // Setter
+    // сеттер
     public void setSeats(int seats) {
         this.seats = seats;
     }
@@ -34,9 +34,8 @@ public class Bus extends Car{
     @Override
     public void go() {
         System.out.println("Едем по дороге c пассажирами");
-        System.out.println(speed);
+        this.speed = speed;
     }
-
 
     @Override
     public void stop() {

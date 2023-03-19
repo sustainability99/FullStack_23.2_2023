@@ -1,19 +1,19 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Площади фигур");
+        System.out.println("Flächen von Figuren");
 
-        // круг
+        // Kreis
         double r = 10;
         Circle o1 = new Circle("circle", r);
-        double s_circle = o1.square(); // используем метод класса
-        System.out.println("Площадь круга: " + s_circle);
+        double s_circle = o1.square(); // nutzen die Methode der Klasse
+        System.out.println("Fläche eines Kreises: " + s_circle);
 
-        // треугольник
+        // Dreieck
         double a = 100;
         double h = 200;
         Triangle t1 = new Triangle("triangle", a, h);
         double s_triangle = t1.square();
-        System.out.println("Площадь треугольника: " + s_triangle);
+        System.out.println("Fläche eines Dreiecks: " + s_triangle);
 
     }
 }
