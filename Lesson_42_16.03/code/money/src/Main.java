@@ -11,6 +11,15 @@ public class Main {
         System.out.println(dollar);
         System.out.println();
 
+        // oder so ausgeben
+        euro.toString();
+        euro2.toString();
+        dollar.toString();
+        System.out.println(euro);
+        System.out.println(euro2);
+        System.out.println(dollar);
+
+
         System.out.println(euro == euro2);
         System.out.println(euro == dollar);
         System.out.println(euro2 == dollar);

@@ -9,7 +9,7 @@ public class Product {
         this.price = price;
         this.rating = rating;
     }
-
+    // Getter und Setter
     public String getName() {
         return name;
     }
@@ -33,7 +33,7 @@ public class Product {
     public void setRating(int rating) {
         this.rating = rating;
     }
-
+    // hier wird die Meithode toString überarbeitet (gibt die Felder auf der Console aus)
     @Override
     public String toString() {
         return "Product " +
@@ -43,6 +43,8 @@ public class Product {
                 '}';
     }
 
+    // bearbeiten Methode zum Vergleichen der Objekte in der Klasse Product
+    // Vergleichen zwei Felder Name und Preis
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -53,6 +55,7 @@ public class Product {
         return name.equals(product.name);
     }
 
+    //bearbeiten Methode hashCode // Ersatzmethode zum vergleichen von Produkten
     @Override
     public int hashCode() {
         int result;
