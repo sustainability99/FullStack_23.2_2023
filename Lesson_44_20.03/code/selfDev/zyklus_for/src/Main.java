@@ -17,6 +17,7 @@ public class Main {
         System.out.println("Geben Sie eine Zahl ein : ");
         int number = sc.nextInt();
 
+
         for (int i = 0; i < twentyElements.length; i++) {
             if (twentyElements.equals(number)) {
                 System.out.println("Diese Nummer ist in der Liste schon enthalten!");
