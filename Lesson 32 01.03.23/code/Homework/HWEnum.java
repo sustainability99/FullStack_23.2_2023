@@ -3,18 +3,18 @@ public class HWEnum {
             System.out.println("Willkommen in unserer Backstube, was möchten Sie gern speisen? ");
 
             enum baecker {
-                Pain au Chocolat,
+                PainAuChocolat,
                 Croissant,
                 Baquette,
                 Macaron,
-                Brötchen
+                Brötchen,
 
             }
             baecker mySpezial = baecker.Croissant;
 
             switch (mySpezial) {
 
-                case Pain au Chocolat -> {
+                case PainAuChocolat -> {
                     System.out.println("Im Frühling scheint die Sonne");
                     System.out.println("Alle sollen die Eier färben - Die Hasen verteilen diese");
                     break;
@@ -39,4 +39,3 @@ public class HWEnum {
             }
         }
     }
-}
