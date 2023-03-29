@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Main {
+public class Main2 {
     public static void main(String[] args) {
         System.out.println("Добро пожаловать в наш ресторан!");
         // Небольшой ресторан, в котором имеется 5 столиков, хочет внедрить у себя вежливого
