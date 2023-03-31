@@ -1,3 +1,5 @@
+package code.praktikum.src;
+
 import java.util.ArrayList;
 
 
@@ -20,16 +22,15 @@ public class Main {
               letters.add( i , String.valueOf(word.charAt(i)));
 
           System.out.println(letters);
-          ArrayList<Character> lettersReverse = new ArrayList<>();
+          ArrayList<String> lettersReverse = new ArrayList<>();
 
 
           for (int i = 0; i < lengthOfWord; i++) {
-              lettersReverse.add(( (i ),  letters.get(lengthOfWord -1 - i));
+              lettersReverse.add(( (i )),  letters.get(lengthOfWord -1 - i));
           }
 
           System.out.println("Word rückwärts ");
           System.out.println(lettersReverse); // die Liste ausdrucken
         }
     }
-}
 }
