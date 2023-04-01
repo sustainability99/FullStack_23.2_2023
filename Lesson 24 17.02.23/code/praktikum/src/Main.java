@@ -22,9 +22,8 @@ public class Main {
               letters.add( i , String.valueOf(word.charAt(i)));
 
           System.out.println(letters);
+
           ArrayList<String> lettersReverse = new ArrayList<>();
-
-
           for (int i = 0; i < lengthOfWord; i++) {
               lettersReverse.add(( (i )),  letters.get(lengthOfWord -1 - i));
           }

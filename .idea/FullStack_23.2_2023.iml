@@ -9,6 +9,64 @@
       <sourceFolder url="file://$MODULE_DIR$/Lesson 24 17.02.23/praktikum/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Lesson_39_13.03/code/dancer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Lesson 24 17.02.23" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 15/Homework/Ruletka/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 16 07.02.23/TabelleMultiplikation/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 18 09.02.23/Homework/HomeworkTemperaturen/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 18 09.02.23/Homework/MassivUmgekehrt/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 20/Homework/KwadratnoeUravnenie/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 22 15.02.23/Homework/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 22 15.02.23/arraylist-example-src/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 22 15.02.23/arraylist-sort-src/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 23 16.02.23/ArrayList_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 23 16.02.23/ArrayList_2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 26 21.02.23/Code/HashMap_Task1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 28 23.02.23/Code/ChangeMoney/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 28 23.02.23/Code/HashMapNamen/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 31 28.02.23/Code/file_io_example1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 31 28.02.23/Code/numeric_systems/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 32 01.03.23/code/Homework/Exchange_rate/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 32 01.03.23/code/Homework/Meine_Baeckerei/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 32 01.03.23/code/Restaurant_bot_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 32 01.03.23/code/enum_example/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 34 03.03.23/Todo_List/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 35 06.03.23/Code/example_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 35 06.03.23/Homework/Drink/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 36 07.03.23/Code/Phone/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 36 07.03.23/Code/selfDef1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 37 09.03.23/Code/animals_veterinar1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 37 09.03.23/Code/employee_salary1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 38 10.03.23/Code/Triangle/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 38 10.03.23/Code/Voter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson 38 10.03.23/Code/wiederholung/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_39_13.03/code/shape/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_40_14.03/code/SelfDev/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_40_14.03/code/cars/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_40_14.03/code/human/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_41_15.03/code/example_object_equal/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_41_15.03/code/interface_example/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_41_15.03/code/two_interfaces/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_42_16.03/code/eccess_example/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_42_16.03/code/money/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_43_17.03/code/internetShop/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_43_17.03/code/static_example/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_44_20.03/code/binary_search/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_44_20.03/code/example_l44/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_44_20.03/code/selfDev/bundeslaender/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_44_20.03/code/selfDev/zyklus_for/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_45_21.03/code/comparable_example/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_45_21.03/code/selfDef/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_45_21.03/code/selfDev2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_46_22.03/code/comparing_objects_0/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_46_22.03/code/comparing_objects_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_47_23.03/code/comparing_objects_1_wiederholung/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_47_23.03/code/comparing_objects_2_wiederholung/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_47_23.03/code/java_swing_example/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_48_24.03/code/file_io_example/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_48_24.03/code/selfDef/dreieck/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_48_24.03/code/selfDef/vorseason/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_49_27.03/code/unit_testing/math_methods/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson_50_28.03/code/selfDef_restaurant/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TestUtility/code/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
