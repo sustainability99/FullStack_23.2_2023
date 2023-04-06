@@ -10,7 +10,7 @@ public class Main {
      */
 
     public int max ( int[]ints,int n){
-        int max = ints[0]; // 2
+        int max = ints[0]; // 2 Aktionen werden hier gemacht
 
         // еще до запуска цикла происходит его инициализация i=0, i<n  +2 операции
         for(int i = 0;i<n;i++){ //после запуска for  на каждой итерации выполняется еще 2 инструкции: i++ и i<n
@@ -25,8 +25,7 @@ public class Main {
     //В теории алгоритмов рассмаьриваются наихудшие сценарии, т.е. в нашем случае это означает массив, упорядоченный
     // по возрастанию и перезаписывание max  при каждой итерации.
     //  f(n)= 4 +2n+4n=4+6n
-    // f(x)=x+1
-    //y=x+1
+
     // когда n  ,большое - константы не важны.. поэтому 4 отбрасываем
     // f(n) = 6n
     //множитель перед n  также отбрасывается
@@ -51,7 +50,7 @@ public class Main {
         return res;
     }
 
-    public static void drawTriangle(int n){
+    public static void drawTriangle(int n){ // Diese Methode zeichnet einen Dreieck in der Console
         for ( int i = 1;i<=n;i++){
             for(int j=1;j<=i;j++){
                 System.out.print(j);
@@ -63,7 +62,8 @@ public class Main {
 
 
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { // Da es keinen Main im Packege gibt, machen wir ein Main genau hier
+        // so wird die Methode aufgerufen durch Erzeugung eines Mains mit ***psvm*** dann ***drawTriangle***
         drawTriangle(6);
         int n =100;
         // for(int i=0;i<n;i++){
@@ -88,6 +88,7 @@ public class Main {
     //O(n) - линейный алгоритм
     // O(n^2) - квадратичный
     // O(log(n)) - логарифмический
+
 }
 
 
